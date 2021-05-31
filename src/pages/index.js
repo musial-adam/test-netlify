@@ -11,6 +11,10 @@ const IndexPage = () => (
     <h1>Hi people</h1>
     <p>Welcome to your new Gatsby site.</p>
     <p>Now go build something great.</p>
+    
+    <h2>Just added this header to see something</h2>
+    <p>Namely the Netlify deploy on push functionality</p>
+    
     <StaticImage
       src="../images/gatsby-astronaut.png"
       width={300}
